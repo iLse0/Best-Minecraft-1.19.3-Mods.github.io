@@ -1,0 +1,87 @@
+html {
+    background: rgb(54,54,54);
+    background-image: url("../End-crystal-pic.jpg");
+}
+
+body {
+    margin: 0;
+    font-family: system-ui;
+}
+
+#div1 {
+    height: 300px;
+    
+    margin: 0 auto;
+    margin-left: 5%;
+    font-family: system-ui;
+    color:rgb(181, 181, 181);
+    
+}
+
+#div2{
+    height: 200px;
+}
+
+h1 {
+    margin-left: 2%;
+    color:rgb(255, 255, 255);
+}
+
+p {
+    color:rgba(13,12,13,255);
+    font-size: 17px;
+    margin-bottom: -1.5%;
+    background-color: rgba(224,105,182,255);
+    height: 50px;
+}
+
+button {
+    margin-left: 2%;
+    font-size: 1rem;
+    font-weight: 700;
+    padding:0.5em 1em;
+    color: rgba(241,228,238,255);;
+    background-color: rgba(224,105,182,255);;
+    border: 3px solid rgba(241,228,238,255);
+    border-radius: 10px ;
+}
+
+.btn:hover {
+    transform: translateX(10%);
+}
+
+.mods-btn {
+    font-size: 1rem;
+    font-weight: 700;
+    padding:0.5em 1em;
+    color: rgba(241,228,238,255);;
+    background-color: rgba(224,105,182,255);;
+    border: 3px solid rgba(241,228,238,255);
+    border-radius: 10px ;
+}
+
+.mods-btn:hover {
+    transform: translateX(10%);
+}
+
+img {
+    font-size: large;
+    margin: 0 auto;
+    margin-bottom: -1.5%;
+    background-color: rgba(224,105,182,255);
+    height: 50px;
+}
+
+button:hover{
+    transform: translateX(10%);
+    background-color: rgb(180, 85, 132);
+}
+
+#Bottom{
+    height: 650px;
+}
+
+#space{
+    height: 100px;
+}
+
