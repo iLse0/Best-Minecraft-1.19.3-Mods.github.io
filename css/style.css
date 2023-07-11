@@ -1,11 +1,11 @@
 html {
     background: rgb(54,54,54);
-    background-image: url("../End-crystal-pic.jpg");
+    background-image: url("../Pictures/End-crystal-pic.jpg");
+    font-family: Century Gothic;
 }
 
 body {
     margin: 0;
-    font-family: system-ui;
 }
 
 #div1 {
@@ -13,7 +13,7 @@ body {
     
     margin: 0 auto;
     margin-left: 5%;
-    font-family: system-ui;
+    font-family: Century Gothic;
     color:rgb(181, 181, 181);
     
 }
@@ -27,15 +27,22 @@ h1 {
     color:rgb(255, 255, 255);
 }
 
+h3 {
+    margin-left: 2%;
+    color:rgb(255, 255, 255);
+}
+
 p {
     color:rgba(13,12,13,255);
     font-size: 17px;
     margin-bottom: -1.5%;
+    margin-top: 0%;
     background-color: rgba(224,105,182,255);
     height: 50px;
 }
 
 button {
+    font-family: Century Gothic;
     margin-left: 2%;
     font-size: 1rem;
     font-weight: 700;
