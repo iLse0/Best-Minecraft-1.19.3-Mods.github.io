@@ -67,6 +67,16 @@ button {
     border-radius: 10px ;
 }
 
+.inf-btn {
+    font-size: 1rem;
+    font-weight: 700;
+    padding:0.5em 1em;
+    color: rgba(241,228,238,255);;
+    background-color: rgba(224,105,182,255);;
+    border: 3px solid rgba(241,228,238,255);
+    border-radius: 10px ;
+}
+
 .mods-btn:hover {
     transform: translateX(10%);
 }
